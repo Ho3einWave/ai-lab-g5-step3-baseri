@@ -1,0 +1,4 @@
+# This repository contains documentation and a standard-library summary script.
+# These packages are only needed to re-run the group's EDA scripts.
+pandas>=2.0
+matplotlib>=3.7

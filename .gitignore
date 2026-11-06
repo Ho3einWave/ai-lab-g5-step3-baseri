@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+.DS_Store
+
+# Audio files are kept in the code repository, not in the documentation repo.
+*.wav
+*.mp3
+*.flac
+*.ogg
