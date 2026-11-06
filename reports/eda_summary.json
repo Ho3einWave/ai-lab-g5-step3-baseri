@@ -1,0 +1,183 @@
+{
+  "metadata_file": "data/metadata.csv",
+  "records": 14,
+  "columns": [
+    "file_name",
+    "file_path",
+    "genre"
+  ],
+  "genres": {
+    "blues": 3,
+    "classical": 2,
+    "hiphop": 5,
+    "jazz": 1,
+    "rock": 3
+  },
+  "genre_percent": {
+    "blues": 21.43,
+    "classical": 14.29,
+    "hiphop": 35.71,
+    "jazz": 7.14,
+    "rock": 21.43
+  },
+  "missing_values": {
+    "file_name": 0,
+    "file_path": 0,
+    "genre": 0
+  },
+  "duplicates": {
+    "rows": 0,
+    "file_name": 0,
+    "file_path": 0
+  },
+  "formats": {
+    ".wav": 14
+  },
+  "paths": {
+    "absolute_windows": 14,
+    "backslash": 14
+  },
+  "audio": {
+    "files_checked": 14,
+    "sample_rates_hz": [
+      22050
+    ],
+    "channels": [
+      1
+    ],
+    "bit_depths": [
+      16
+    ],
+    "duration_min_seconds": 30.0,
+    "duration_max_seconds": 30.013,
+    "total_size_bytes": 18528528,
+    "files": [
+      {
+        "file_name": "blues.00000.wav",
+        "genre": "blues",
+        "sample_rate_hz": 22050,
+        "channels": 1,
+        "bit_depth": 16,
+        "duration_seconds": 30.013,
+        "size_bytes": 1323632
+      },
+      {
+        "file_name": "blues.00002.wav",
+        "genre": "blues",
+        "sample_rate_hz": 22050,
+        "channels": 1,
+        "bit_depth": 16,
+        "duration_seconds": 30.013,
+        "size_bytes": 1323632
+      },
+      {
+        "file_name": "blues.00003.wav",
+        "genre": "blues",
+        "sample_rate_hz": 22050,
+        "channels": 1,
+        "bit_depth": 16,
+        "duration_seconds": 30.013,
+        "size_bytes": 1323632
+      },
+      {
+        "file_name": "classical.00000.wav",
+        "genre": "classical",
+        "sample_rate_hz": 22050,
+        "channels": 1,
+        "bit_depth": 16,
+        "duration_seconds": 30.013,
+        "size_bytes": 1323632
+      },
+      {
+        "file_name": "classical.00001.wav",
+        "genre": "classical",
+        "sample_rate_hz": 22050,
+        "channels": 1,
+        "bit_depth": 16,
+        "duration_seconds": 30.013,
+        "size_bytes": 1323632
+      },
+      {
+        "file_name": "hiphop.00000.wav",
+        "genre": "hiphop",
+        "sample_rate_hz": 22050,
+        "channels": 1,
+        "bit_depth": 16,
+        "duration_seconds": 30.0,
+        "size_bytes": 1323052
+      },
+      {
+        "file_name": "hiphop.00001.wav",
+        "genre": "hiphop",
+        "sample_rate_hz": 22050,
+        "channels": 1,
+        "bit_depth": 16,
+        "duration_seconds": 30.0,
+        "size_bytes": 1323052
+      },
+      {
+        "file_name": "hiphop.00004.wav",
+        "genre": "hiphop",
+        "sample_rate_hz": 22050,
+        "channels": 1,
+        "bit_depth": 16,
+        "duration_seconds": 30.0,
+        "size_bytes": 1323052
+      },
+      {
+        "file_name": "hiphop.00005.wav",
+        "genre": "hiphop",
+        "sample_rate_hz": 22050,
+        "channels": 1,
+        "bit_depth": 16,
+        "duration_seconds": 30.0,
+        "size_bytes": 1323052
+      },
+      {
+        "file_name": "hiphop.00013.wav",
+        "genre": "hiphop",
+        "sample_rate_hz": 22050,
+        "channels": 1,
+        "bit_depth": 16,
+        "duration_seconds": 30.013,
+        "size_bytes": 1323632
+      },
+      {
+        "file_name": "jazz.00000.wav",
+        "genre": "jazz",
+        "sample_rate_hz": 22050,
+        "channels": 1,
+        "bit_depth": 16,
+        "duration_seconds": 30.013,
+        "size_bytes": 1323632
+      },
+      {
+        "file_name": "rock.00001.wav",
+        "genre": "rock",
+        "sample_rate_hz": 22050,
+        "channels": 1,
+        "bit_depth": 16,
+        "duration_seconds": 30.013,
+        "size_bytes": 1323632
+      },
+      {
+        "file_name": "rock.00003.wav",
+        "genre": "rock",
+        "sample_rate_hz": 22050,
+        "channels": 1,
+        "bit_depth": 16,
+        "duration_seconds": 30.013,
+        "size_bytes": 1323632
+      },
+      {
+        "file_name": "rock.00004.wav",
+        "genre": "rock",
+        "sample_rate_hz": 22050,
+        "channels": 1,
+        "bit_depth": 16,
+        "duration_seconds": 30.013,
+        "size_bytes": 1323632
+      }
+    ]
+  }
+}
